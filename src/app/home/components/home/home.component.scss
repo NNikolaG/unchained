@@ -1,0 +1,12 @@
+.container {
+    padding: 50px;
+    .profile {
+        height: 100vh;
+        border: 1px solid rgba(230, 230, 230, 1);
+        border-right: none;
+    }
+
+    .main {
+        border: 1px solid rgba(230, 230, 230, 1);;
+    }
+}
